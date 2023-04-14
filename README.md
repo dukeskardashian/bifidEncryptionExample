@@ -1,0 +1,2 @@
+# bifidEncryptionExample
+bifidEncryptionExample in JS 
